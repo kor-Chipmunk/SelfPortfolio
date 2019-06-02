@@ -27,4 +27,15 @@ HTML 코드를 편집하기 위한 툴입니다.
   
 아래 화면이 나타나면 성공했습니다!  
   
-![성공](image/FirebaseConsole3.jpg)
+![성공](image/FirebaseConsole3.jpg)  
+  
+### 4. 자기소개 페이지에 들어갈 내용 준비하기
+[샘플 페이지](https://fastcampus-d8235.firebaseapp.com/)를 참고하여 들어갈 내용들을 가져와 주세요!  
+  
+1. 사진 파일
+2. 사진 밑에 들어갈 정보들 (직업, 사는 곳, 이메일 등)
+3. Skills
+4. Language
+5. Experience
+6. Education
+7. Introduction
