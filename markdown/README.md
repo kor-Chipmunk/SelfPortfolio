@@ -2,13 +2,13 @@
 ## 준비물
 ### 1. Microsoft Visual Studio Code
 HTML 코드를 편집하기 위한 툴입니다.  
-설치하기 : [설치 링크][https://code.visualstudio.com/]  
+설치하기 : [설치 링크](https://code.visualstudio.com/)  
   
 ![비주얼스튜디오코드](image/VSCode.PNG)  
   
 ### 2. NodeJS
 배포를 위한 파이어베이스 패키지를 설치하기 위해 필요합니다.  
-설치하기 : [설치 링크][https://nodejs.org/ko/]  
+설치하기 : [설치 링크](https://nodejs.org/ko/)  
   
 ![노드제이에스](image/NodeJS.PNG)  
   
@@ -16,7 +16,7 @@ HTML 코드를 편집하기 위한 툴입니다.
 파이어베이스의 호스팅 기능으로 배포를 합니다.  
 실습에 오기 전에 Firebase Console에서 새 프로젝트를 추가해야 합니다.  
   
-콘솔로 [이동 하기 ][https://console.firebase.google.com/]  
+콘솔로 [이동 하기](https://console.firebase.google.com/)  
   
 ![콘솔](image/FirebaseConsole.jpg)  
   
